@@ -1,0 +1,10 @@
+# Theme for Kenny_Resume_App.py (keep this folder next to the .py file)
+[theme]
+base = "light"
+primaryColor = "#0F7C74"
+backgroundColor = "#F5F7F6"
+secondaryBackgroundColor = "#E8EEF0"
+textColor = "#17242F"
+
+[client]
+toolbarMode = "minimal"
